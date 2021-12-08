@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Vix1223/receitaapp/issues"
   },
-  "homepage": "https://github.com/Vix1223/receitaapp#readme"
+  "homepage": "https://github.com/Vix1223/receitaapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
